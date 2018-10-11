@@ -1,5 +1,5 @@
 require 'bundler/setup'
-Bundler.require(:default, :test, :development)
+Bundler.require
 
 require_relative '../bin/run.rb'
 
