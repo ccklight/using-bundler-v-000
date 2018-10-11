@@ -12,7 +12,7 @@ gem "octokit", "~> 2.0"
 gem "pry", :group => "development"
 
  
-  gem "git@github.com:learn-co-students/using-bundler-v-000.git"
+gem "git@github.com:learn-co-students/using-bundler-v-000.git"
  
 
 
