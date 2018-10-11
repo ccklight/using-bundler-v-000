@@ -11,7 +11,7 @@ gem "octokit", "~> 2.0"
 
 gem "pry", :group => "development"
 
-
+gem "awesome_print", git: ""
 
 
 
