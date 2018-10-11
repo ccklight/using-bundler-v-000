@@ -3,8 +3,8 @@ Bundler.require(default, development)
 
 require_relative '../bin/run.rb'
 
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+exec Hashie
+exec Sinatra
+exec Octokit
+exec Pry
+exec AwesomePrint
